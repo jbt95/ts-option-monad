@@ -1,5 +1,5 @@
 {
-	"name": "ts-option",
+	"name": "ts-option-monad",
 	"version": "1.0.0",
 	"author": "Jordi Bermejo <berme495@gmail.com>",
 	"main": "dist/index.js",

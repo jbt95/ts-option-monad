@@ -3538,9 +3538,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ts-option@workspace:.":
+"ts-option-monad@workspace:.":
   version: 0.0.0-use.local
-  resolution: "ts-option@workspace:."
+  resolution: "ts-option-monad@workspace:."
   dependencies:
     "@types/mocha": ^9.1.1
     "@types/node": ^18.7.18
