@@ -1,7 +1,7 @@
 ### Installation
 
 ```
-npm install ts-option
+npm install ts-option-monad
 ```
 
 ### Input validation
